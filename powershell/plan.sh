@@ -1,5 +1,5 @@
 pkg_name="powershell"
-pkg_origin="core"
+pkg_origin="dem"
 pkg_version="6.2.1"
 pkg_license=("MIT")
 pkg_upstream_url="https://msdn.microsoft.com/powershell"
