@@ -1,0 +1,8 @@
+[pester]
+plan_path = "pester"
+
+[powershell]
+plan_path = "powershell"
+
+[simple-hooks]
+plan_path = "simple-hooks"
